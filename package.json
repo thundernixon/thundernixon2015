@@ -1,0 +1,26 @@
+{
+  "name": "thundernixon-2015",
+  "version": "1.0.0",
+  "description": "The portfolio of Stephen Thunder Nixon.",
+  "main": "grunt.js",
+  "dependencies": {
+    "grunt": "^0.4.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thundernixon/thundernixon2015.git"
+  },
+  "keywords": [
+    "portfolio"
+  ],
+  "author": "Stephen Nixon <stephen@thundernixon.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thundernixon/thundernixon2015/issues"
+  },
+  "homepage": "https://github.com/thundernixon/thundernixon2015#readme"
+}
